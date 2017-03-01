@@ -4,7 +4,8 @@ New **free MOOC course** covering all of this material in much more depth, as we
 
 # TensorFlow Tutorials
 
-Everything is in the notebooks under `notebooks`, for TensorFlow r1.0.
+Everything is in the notebooks under `notebooks`, for TensorFlow r1.0. You can also read this tutorials in [nbviewer](http://nbviewer.jupyter.org/github/zlotus/tensorflow_tutorials/blob/master/README.ipynb). 
+
 
 | | Source code | Description |
 | --- | --- | --- |
